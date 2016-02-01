@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.salesucation.simplechat" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Simple Chat</name>
+<widget id="io.githuh.oscarlucero14.toastest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Toast Test</name>
     <description>
-        A sample Angular application that uses firebase as its backend.
+        A sample NAtive Application.
     </description>
     <author email="rhildred@conestogac.on.ca" href="http://rhildred.github.io">
         Apache Cordova Team
